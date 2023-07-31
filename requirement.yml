@@ -1,0 +1,9 @@
+name: icd9_predict
+channels:
+  - defaults
+dependencies:
+  - jupyter
+  - notebook
+  - pip:
+    - pandas==1.5.3
+    - scikit-learn==1.3.0

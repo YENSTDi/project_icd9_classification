@@ -1,0 +1,14 @@
+# ICD9 Predict
+## 資料
+資料清理後: 2554筆 
+
+## 標籤
+|1|0|
+|-|-|
+|1898|656|
+
+## 環境
+```
+conda env create -f .\requirement.yml
+conda activate icd9_predict
+```
