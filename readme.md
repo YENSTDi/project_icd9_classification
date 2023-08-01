@@ -12,3 +12,7 @@
 conda env create -f .\requirement.yml
 conda activate icd9_predict
 ```
+
+## 模型評估
+### 簡單拆分訓練7測試3
+![]("./bin/73.png")
