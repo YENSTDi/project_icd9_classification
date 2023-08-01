@@ -15,4 +15,4 @@ conda activate icd9_predict
 
 ## 模型評估
 ### 簡單拆分訓練7測試3
-![img]("/bin/73.png")
+![img]("bin/73.png")
