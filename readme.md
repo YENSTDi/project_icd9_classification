@@ -7,6 +7,7 @@ conda activate icd9_predict
 ## 資料
 - 資料清理後: 2554筆 
 - 標籤: 1: 1898, 0: 656
+- 處理後特徵9欄、Taeget 1欄
 
 
 ## 方法
