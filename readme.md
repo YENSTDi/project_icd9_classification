@@ -4,6 +4,16 @@
 conda env create -f ./requirement.yml
 conda activate icd9_predict
 ```
+
+## 復現環境建置#2
+```
+conda create -n icd9_predict python=3.9
+conda activate icd9_predict
+pip install pandas==1.5.3
+pip install scikit-learn
+pip install jupyter notebook
+```
+
 ## 資料
 - 資料清理後: 2554筆 
 - 標籤: 1: 1898, 0: 656
