@@ -6,6 +6,11 @@ conda activate icd9_predict
 ```
 
 ## 復現環境建置#2
+確保原先環境沒有icd9_predict
+```
+conda env remove -n icd9_predict
+```
+手動安裝環境
 ```
 conda create -n icd9_predict python=3.9
 conda activate icd9_predict
